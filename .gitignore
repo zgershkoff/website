@@ -1,6 +1,10 @@
 # Created by https://www.gitignore.io/api/node
 # Edit at https://www.gitignore.io/?templates=node
 
+# Don't know about the rest of this but I will leave it
+# Ignore public directory, which I will keep for local testing
+public/
+
 ### Node ###
 # Logs
 logs
