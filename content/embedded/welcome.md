@@ -11,4 +11,4 @@ showFullContent = true
 showDate = false
 +++
 
-You found me. uwu
+I hope you're having an absolutely wonderful day.
