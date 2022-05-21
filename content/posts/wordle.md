@@ -6,7 +6,7 @@ authorTwitter = "" #do not include @
 cover = ""
 tags = ["wordle", "regex"]
 keywords = ["wordle", "regex", "cheat"]
-description = ""
+description = "A walkthrough for how to use regular expressions to your advantage when Wordle is too much to deal with."
 showFullContent = false
 +++
 

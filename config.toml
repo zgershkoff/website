@@ -49,7 +49,8 @@ paginate = 5
   creator = "zgershkoff"
   site = "zach.industries"
   # fix this in head.html. not working here
-  image = "https://zach.industries/img/card.png"
+  # ...unless?
+  image = "https://zach.industries/img/card.jpg"
   description = "Hello friend"
   title = "A Very Nice Website"
   imagealt = "Bliss from Windows XP"
