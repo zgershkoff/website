@@ -51,6 +51,8 @@ paginate = 5
   # fix this in head.html. not working here
   image = "https://zach.industries/img/card.png"
   description = "Hello friend"
+  title = "A Very Nice Website"
+  imagealt = "Bliss from Windows XP"
 
 [languages]
   [languages.en]

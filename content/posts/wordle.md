@@ -51,4 +51,10 @@ This works better, and it takes us from 98 words to only 5. There's "sound", and
 - `(?!)` indicates a negative lookahead.
 - `\wo` means a word character followed by "o". Likewise, `\w{2}u` means two word characters followed by "u".
 
+Those negative lookaheads weren't really necessary here. We could have just as easily said no "o" in position 2 and no "u" in position 3 like this:
+
+```
+(?=\w*o)(?=\w*u)^s[^playtho][^playthu][^playth]{2}$
+```
+
 Now the dictionary search only returns one answer. We got it in three guesses. Impressive.
